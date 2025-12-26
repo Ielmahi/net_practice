@@ -73,7 +73,7 @@ This project covers the following networking fundamentals:
 ### AI Usage
 
 Artificial intelligence tools were used for:
-- Structuring and writing the `README.md` file according to 42 requirements
+- Structuring `README.md` file according to 42 requirements
 - Improving clarity and accuracy of networking concept descriptions
 
 All network configurations and level solutions were completed manually through study and practice.
